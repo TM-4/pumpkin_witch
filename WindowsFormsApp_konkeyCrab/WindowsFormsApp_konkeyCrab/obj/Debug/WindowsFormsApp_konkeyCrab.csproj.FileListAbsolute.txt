@@ -1,0 +1,10 @@
+C:\Users\cotoc\Desktop\VS-storage -place\WindowsFormsApp_konkeyCrab\WindowsFormsApp_konkeyCrab\bin\Debug\WindowsFormsApp_konkeyCrab.exe.config
+C:\Users\cotoc\Desktop\VS-storage -place\WindowsFormsApp_konkeyCrab\WindowsFormsApp_konkeyCrab\bin\Debug\WindowsFormsApp_konkeyCrab.exe
+C:\Users\cotoc\Desktop\VS-storage -place\WindowsFormsApp_konkeyCrab\WindowsFormsApp_konkeyCrab\bin\Debug\WindowsFormsApp_konkeyCrab.pdb
+C:\Users\cotoc\Desktop\VS-storage -place\WindowsFormsApp_konkeyCrab\WindowsFormsApp_konkeyCrab\obj\Debug\WindowsFormsApp_konkeyCrab.csproj.AssemblyReference.cache
+C:\Users\cotoc\Desktop\VS-storage -place\WindowsFormsApp_konkeyCrab\WindowsFormsApp_konkeyCrab\obj\Debug\WindowsFormsApp_konkeyCrab.Form1.resources
+C:\Users\cotoc\Desktop\VS-storage -place\WindowsFormsApp_konkeyCrab\WindowsFormsApp_konkeyCrab\obj\Debug\WindowsFormsApp_konkeyCrab.Properties.Resources.resources
+C:\Users\cotoc\Desktop\VS-storage -place\WindowsFormsApp_konkeyCrab\WindowsFormsApp_konkeyCrab\obj\Debug\WindowsFormsApp_konkeyCrab.csproj.GenerateResource.cache
+C:\Users\cotoc\Desktop\VS-storage -place\WindowsFormsApp_konkeyCrab\WindowsFormsApp_konkeyCrab\obj\Debug\WindowsFormsApp_konkeyCrab.csproj.CoreCompileInputs.cache
+C:\Users\cotoc\Desktop\VS-storage -place\WindowsFormsApp_konkeyCrab\WindowsFormsApp_konkeyCrab\obj\Debug\WindowsFormsApp_konkeyCrab.exe
+C:\Users\cotoc\Desktop\VS-storage -place\WindowsFormsApp_konkeyCrab\WindowsFormsApp_konkeyCrab\obj\Debug\WindowsFormsApp_konkeyCrab.pdb
